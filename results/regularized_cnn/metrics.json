@@ -1,0 +1,6 @@
+{
+  "model_name": "Regularized_CNN",
+  "test_loss": 0.017350953072309494,
+  "test_accuracy": 0.9947999715805054,
+  "total_params": 469098
+}

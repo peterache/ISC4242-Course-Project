@@ -1,0 +1,6 @@
+{
+  "model_name": "Simple_CNN",
+  "test_loss": 0.028654180467128754,
+  "test_accuracy": 0.9915000200271606,
+  "total_params": 121930
+}

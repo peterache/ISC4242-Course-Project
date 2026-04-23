@@ -1,0 +1,6 @@
+{
+  "model_name": "Baseline_Dense",
+  "test_loss": 0.07667961716651917,
+  "test_accuracy": 0.9781000018119812,
+  "total_params": 109386
+}

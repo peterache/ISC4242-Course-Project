@@ -1,0 +1,6 @@
+{
+  "model_name": "Deep_CNN",
+  "test_loss": 0.04102542996406555,
+  "test_accuracy": 0.992900013923645,
+  "total_params": 132042
+}
