@@ -1,0 +1,6 @@
+{
+  "model_name": "Wide_CNN",
+  "test_loss": 0.0363423228263855,
+  "test_accuracy": 0.9902999997138977,
+  "total_params": 6431626
+}
