@@ -1,0 +1,6 @@
+{
+  "model_name": "Residual_CNN",
+  "test_loss": 0.015713902190327644,
+  "test_accuracy": 0.9950000047683716,
+  "total_params": 325930
+}

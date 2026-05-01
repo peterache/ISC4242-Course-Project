@@ -1,0 +1,6 @@
+{
+  "model_name": "Augmented_CNN",
+  "test_loss": 0.01871405728161335,
+  "test_accuracy": 0.9940000176429749,
+  "total_params": 476714
+}

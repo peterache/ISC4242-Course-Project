@@ -1,0 +1,6 @@
+{
+  "model_name": "Depthwise_CNN",
+  "test_loss": 0.5411723852157593,
+  "test_accuracy": 0.9927999973297119,
+  "total_params": 82314
+}

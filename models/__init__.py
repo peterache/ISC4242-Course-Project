@@ -9,13 +9,16 @@ compiled keras.Model. To add a new model:
     3. Run: python train.py --model your_model
 """
 
-from . import baseline_dense, simple_cnn, regularized_cnn, deep_cnn
+from . import baseline_dense, simple_cnn, regularized_cnn, deep_cnn, augmented_cnn, residual_cnn, depthwise_cnn
 
 MODELS = {
     "baseline_dense": baseline_dense.build_model,
     "simple_cnn": simple_cnn.build_model,
     "regularized_cnn": regularized_cnn.build_model,
     "deep_cnn": deep_cnn.build_model,
+    "augmented_cnn": augmented_cnn.build_model,
+    "residual_cnn": residual_cnn.build_model,
+    "depthwise_cnn": depthwise_cnn.build_model,
 }
 
 
