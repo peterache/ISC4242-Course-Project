@@ -1,0 +1,6 @@
+{
+  "model_name": "functional",
+  "test_loss": 0.5297935009002686,
+  "test_accuracy": 0.991599977016449,
+  "total_params": 66954
+}
